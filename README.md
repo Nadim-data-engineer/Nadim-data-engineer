@@ -1,4 +1,4 @@
-# Hi, I'm Nadim 👋
+# Hi, I'm Nadimulla 👋
 
 ### Data Engineer | Python | SQL | ETL
 
